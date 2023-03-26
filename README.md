@@ -15,19 +15,20 @@
       <p>Aqui são algumas das lingaugens e tecnologias que estou me aprofundando e buscando me especializar.</p>
       <div>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50"/> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="50" height="50"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50" height="50"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" height="50"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>  
       </div>  
       <h2>Dados do GitHub:</h2>
       <div>
-        <a href="https://github.com/Moto-Log">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moto-Log&layout=compact&langs_count=7&theme=tokyonight" width="330"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Moto-Log&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="330"/>
+        <a href="https://github.com/AmandaSilvaDev">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaSilvaDev&layout=compact&langs_count=7&theme=tokyonight" width="330"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmandaSilvaDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="330"/>
       </div>
       <h3>Contatos:</h3>
       <div>
