@@ -26,10 +26,10 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>  
       </div>  
       <h2>Dados do GitHub:</h2>
-      <div>
+       <div>
         <a href="https://github.com/AmandaSilvaDev">
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaSilvaDev&layout=compact&langs_count=7&theme=tokyonight" width="330"/>
-        <img height="180em" height="50"src="https://github-readme-stats.vercel.app/api?username=AmandaSilvaDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="330"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmandaSilvaDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="330"/>
       </div>
       <h3>Contatos:</h3>
       <div>
