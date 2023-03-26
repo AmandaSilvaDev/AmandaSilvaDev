@@ -28,13 +28,13 @@
       <h2>Dados do GitHub:</h2>
       <div>
         <a href="https://github.com/AmandaSilvaDev">
-        <img width="50" height="50" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaSilvaDev&layout=compact&langs_count=7&theme=tokyonight" width="330"/>
-        <img width="50" height="50"src="https://github-readme-stats.vercel.app/api?username=AmandaSilvaDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="330"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaSilvaDev&layout=compact&langs_count=7&theme=tokyonight" width="330"/>
+        <img height="180em" height="50"src="https://github-readme-stats.vercel.app/api?username=AmandaSilvaDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="330"/>
       </div>
       <h3>Contatos:</h3>
       <div>
-        <a href = "mailto:amandasilvalopes.dev@gmail.com"><img src="https://g7.com.br/wp-content/uploads/outlook-logo.jpg" target="_blank" width="75" height="28"></a>
-        <a href="https://www.linkedin.com/in/amandadasilvalopes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+        <a href = "mailto:amandasilvalopes.dev@gmail.com"><img src="https://g7.com.br/wp-content/uploads/outlook-logo.jpg" target="_blank" width="50" height="50"></a>
+        <a href="https://www.linkedin.com/in/amandadasilvalopes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> width="50" height="50"</a>
       </div>
     </body>
   </html>
