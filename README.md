@@ -5,28 +5,26 @@
       <p>Meu nome é Amanda, tenho 18 anos e atualmente curso Análise e Desenvolvimento de Sistemas, focando em desenvolvimento Front-End e Data science.</p>
       <p>Aqui você pode encontrar alguns dos meu projetos pessoais e atividades diárias que eu desenvolvo no decorrer da graduação e estudo individual.</p>
       <h2>Ferramentas e conhecimentos:</h2>
-      <p>Nessa seção você vai encontrar as lingaagens que costumo utilizar e tenho mais afinidade.</p>
+      <p>Linguagens com mais afinidade.</p>
       <div>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/> 
       </div>
       <h2>Aprimorando:</h2>
-      <p>Aqui são algumas das lingaugens que estou me aprofundando e buscando me especializar (podem variar com o decorrer do tempo).</p>
+      <p>Aqui são algumas das lingaugens e tecnologias que estou me aprofundando e buscando me especializar.</p>
       <div>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50"/>  
-      </div>
-      <h2>Aprendendo:</h2>
-      <p>Bem, todos temos muito o que aprender, e na busca de ser um bom desenvolvedo full stack, estou buscando conhecimento em web design e UI/UX.</p>
-      <div>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="50" height="50"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50" height="50"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" height="50"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50"/>
+        
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
       </div>
+    
       <h2>Dados do GitHub:</h2>
       <div>
         <a href="https://github.com/Moto-Log">
