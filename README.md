@@ -1,9 +1,9 @@
 <!DOCTYPE html>
   <html>
     <body>
-      <h1>Olá!</h1>
-      <p>Se você está se perguntando quem sou eu, me chamo Gabriel, tenho 21 anos e atualmente curso Análise e Desenvolvimento de Sistemas, focando em desenvolvimenot full stack/Back-End.</p>
-      <p>Aqui você pode encontrar alguns dos meu projetos pessoais e atividades diárias que eu desenvolvo no decorrer da graduação.</p>
+      <h1>Olá Mundo!</h1>
+      <p>Meu nome é Amanda, tenho 18 anos e atualmente curso Análise e Desenvolvimento de Sistemas, focando em desenvolvimento Front-End e Data science.</p>
+      <p>Aqui você pode encontrar alguns dos meu projetos pessoais e atividades diárias que eu desenvolvo no decorrer da graduação e estudo individual.</p>
       <h2>Ferramentas e conhecimentos:</h2>
       <p>Nessa seção você vai encontrar as lingaagens que costumo utilizar e tenho mais afinidade.</p>
       <div>
