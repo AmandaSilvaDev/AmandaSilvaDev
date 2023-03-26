@@ -33,8 +33,8 @@
       </div>
       <h3>Contatos:</h3>
       <div>
-        <a href = "mailto:amandasilvalopes.dev@gmail.com"><img src="https://g7.com.br/wp-content/uploads/outlook-logo.jpg" target="_blank" width="50" height="50"></a>
-        <a href="https://www.linkedin.com/in/amandadasilvalopes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> width="50" height="50"</a>
+        <a href = "mailto:amandasilvalopes.dev@gmail.com"><img src="https://g7.com.br/wp-content/uploads/outlook-logo.jpg" target="_blank" width="75" height="28"></a>
+        <a href="https://www.linkedin.com/in/amandadasilvalopes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" width="75" height="28"></a>
       </div>
     </body>
   </html>
