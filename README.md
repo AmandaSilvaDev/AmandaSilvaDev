@@ -12,7 +12,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50"/> 
       </div>
       <h3>Aprimorando:</h2>
-      <p>Aqui são algumas das lingaugens e tecnologias que estou me aprofundando e buscando me especializar.</p>
+      <p>Aqui são algumas das linguagens e tecnologias que estou me aprofundando e buscando me especializar.</p>
       <div>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50"/>
