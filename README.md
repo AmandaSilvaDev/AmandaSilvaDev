@@ -11,7 +11,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50"/> 
       </div>
-      <h2>Aprimorando:</h2>
+      <h3>Aprimorando:</h2>
       <p>Aqui são algumas das lingaugens e tecnologias que estou me aprofundando e buscando me especializar.</p>
       <div>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50"/>
