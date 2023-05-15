@@ -2,7 +2,7 @@
   <html>
     <body>
       <h1>Olá Mundo!</h1>
-      <p>Meu nome é Amanda, tenho 18 anos e atualmente curso Análise e Desenvolvimento de Sistemas, focando em desenvolvimento Front-End e Data science.</p>
+      <p>Meu nome é Amanda, tenho 19 anos e atualmente curso Análise e Desenvolvimento de Sistemas, focando em desenvolvimento Front-End e Data science.</p>
       <p>Aqui você pode encontrar alguns dos meu projetos pessoais e atividades diárias que eu desenvolvo no decorrer da graduação e estudo individual.</p>
       <h2>Ferramentas e conhecimentos:</h2>
       <p>Linguagens com mais afinidade.</p>
